@@ -42,4 +42,16 @@ public class Main {
     }
 }
 
+//    String modeOfTransportation;
+//        System.out.println("Mode of transportation:");
+//                switch (favoriteColor) {
+//                case "red" -> modeOfTransportation = "helicopter";
+//                case "orange" -> modeOfTransportation = "subways";
+//                case "yellow" -> modeOfTransportation = "boats";
+//                case "green" -> modeOfTransportation = "buses";
+//                case "blue" -> modeOfTransportation = "trains";
+//                case "indigo" -> modeOfTransportation = "cars";
+//                case "violet" -> modeOfTransportation = "biking";
+//default -> modeOfTransportation = "foot";
+//        }
 
